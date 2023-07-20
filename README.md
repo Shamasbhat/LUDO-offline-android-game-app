@@ -1,2 +1,11 @@
-# LUDO-offline-android-game-app
-This project aims to develop an Android-based Ludo game, offering an offline gaming experience for users. Ludo, a popular board game, will be recreated digitally, providing an entertaining and interactive experience for players. The target audience for this game includes individuals of all ages who enjoy casual gaming.
+# ludo_offline
+Offline ludo game developed in android studio
+
+
+Hello Guy(s),
+
+Thanks for considering a look here, You can find a simple android ludo game developed in android studio. This is just sample project to illustrate canvas in android with threading for game development. 
+
+This is 2D game developed for a simple stat of game development in android studio. Please go through code and you can understand yourself. If you still face any issues then do post issues and I will try to solve it.
+
+Happy coding!
